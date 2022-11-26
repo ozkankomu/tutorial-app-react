@@ -1,22 +1,85 @@
-# API Base URLs
+<p align="center">
+<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="photo1.png" alt="screenshot" target=_blanked></a>
+</p>
 
-## https://tutorials-api-cw.herokuapp.com/api/tutorials
 
-## https://axios-example-cw.herokuapp.com/api/tutorials
 
-## https://cw-axios-example.herokuapp.com/api/tutorials
 
-### API ENDPOINTS
+ FireContact App
+## Table of contents
 
-- GET `api/tutorials` get all Tutorials
-- GET `api/tutorials/:id` get Tutorial by id
-- POST `api/tutorials` add new Tutorial
-- PUT `api/tutorials/:id` update Tutorial by id
-- DELETE `api/tutorials/:id` remove Tutorial by id
-- DELETE `api/tutorials` remove all Tutorials
-- GET `api/tutorials/published` find all published Tutorials
-- GET `api/tutorials?title=[keyword]` find all Tutorials which title contains 'keyword'
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Project Skeleton ](#project-skeleton)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
 
-# Deployed Frontend
 
-## https://axios-example.netlify.app/
+
+## The challenge
+Project aims to create a Tutorial App   with React.JS
+
+
+## Project Skeleton
+
+```
+Tutorial App
+|
+|----readme.md       
+
+SOLUTION
+├── public
+│     └── index.html
+├── src
+│    ├── Pages
+│    │       ├── Home
+│    │       
+│    │       
+│    │             
+│    ├│    │   
+│    │      
+│    ├── App.js
+│    ├── App.css
+│    ├── index.js
+│    └── index.css
+├── package.json
+└── yarn.lock
+
+```
+
+
+## Screenshot
+<p align="left">
+<a href="https://ozkankomu.github.io/tutorial-app-react/"><img src="screen.gif" alt="screenshot" target=_blanked></a>
+</p>
+
+## Links
+<hr>
+<b>Check The Live Website ➡️</b> <a href="https://ozkankomu.github.io/tutorial-app-react/" target=_blanked> Live Website </a> 
+<hr>
+
+### Built with
+- REACT
+- MUI
+- Mobile-first workflow
+- Toastify  
+- FIRE BASE
+
+## Notes
+
+- I used React
+
+### Useful resources
+
+- [W3 Schoold](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
+- [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
+
+
+
+## Author
+
+- Author - [Ozkan]
+
+<center> &#8987; Happy Coding  &#9997; </center>
